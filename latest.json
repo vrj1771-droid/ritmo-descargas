@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "published_at": "2026-10-18T20:50:03.536880+00:00",
+  "releases": [
+    {
+      "platform": "android",
+      "version": "1.0.2",
+      "build": 3,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.2/ritmo-supabase.apk",
+      "sha256": "27ab3705b301675bab04bc88b42189283f2405bf01a6607e6c7d1ea4dba4e6da",
+      "bytes": 160201897,
+      "published_at": "2026-10-18T20:50:03.536880+00:00",
+      "notes": "Logo aprobado, carga animada, tutorial de Blobbie y aviso de nuevas versiones."
+    },
+    {
+      "platform": "windows",
+      "version": "1.0.2",
+      "build": 3,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.2/ritmo-windows.zip",
+      "sha256": "5ed27233dc88bd4c0bba5910373f5edc0adde2deba02eb44327b809a52592689",
+      "bytes": 49573374,
+      "published_at": "2026-10-18T20:50:03.536880+00:00",
+      "notes": "Logo aprobado, carga animada, tutorial de Blobbie y aviso de nuevas versiones."
+    },
+    {
+      "platform": "ios",
+      "version": "1.0.2",
+      "build": 3,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.2/ritmo-supabase-ios.ipa",
+      "sha256": "56b6ec694ac62c6069469cfcecceb0b928591fc9960ec35f6baca5b725e8c39f",
+      "bytes": 43710230,
+      "published_at": "2026-10-18T20:50:03.536880+00:00",
+      "notes": "Logo aprobado, carga animada, tutorial de Blobbie y aviso de nuevas versiones."
+    }
+  ]
+}
