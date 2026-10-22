@@ -1,36 +1,36 @@
 {
   "schema_version": 1,
-  "published_at": "2026-10-18T20:50:03.536880+00:00",
+  "published_at": "2026-10-22T16:38:51.836636+00:00",
   "releases": [
     {
       "platform": "android",
-      "version": "1.0.2",
-      "build": 3,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.2/ritmo-supabase.apk",
-      "sha256": "27ab3705b301675bab04bc88b42189283f2405bf01a6607e6c7d1ea4dba4e6da",
-      "bytes": 160201897,
-      "published_at": "2026-10-18T20:50:03.536880+00:00",
-      "notes": "Logo aprobado, carga animada, tutorial de Blobbie y aviso de nuevas versiones."
+      "version": "1.0.3",
+      "build": 4,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.3/ritmo-supabase.apk",
+      "sha256": "01ad55b96c6358cab8669bd3fb17bbc2bffb31147614146dfff599737d1aa03e",
+      "bytes": 76140886,
+      "published_at": "2026-10-22T16:38:51.836636+00:00",
+      "notes": "Cuentas con correo y más seguridad, evento de Día de Muertos con reto y Floti exclusivo."
     },
     {
       "platform": "windows",
-      "version": "1.0.2",
-      "build": 3,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.2/ritmo-windows.zip",
-      "sha256": "5ed27233dc88bd4c0bba5910373f5edc0adde2deba02eb44327b809a52592689",
-      "bytes": 49573374,
-      "published_at": "2026-10-18T20:50:03.536880+00:00",
-      "notes": "Logo aprobado, carga animada, tutorial de Blobbie y aviso de nuevas versiones."
+      "version": "1.0.3",
+      "build": 4,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.3/ritmo-windows.zip",
+      "sha256": "7c6d6482c32115401b1fdbc9579dd261ebcb90f1845f20736aabbcc7ff82aff6",
+      "bytes": 49452870,
+      "published_at": "2026-10-22T16:38:51.836636+00:00",
+      "notes": "Cuentas con correo y más seguridad, evento de Día de Muertos con reto y Floti exclusivo."
     },
     {
       "platform": "ios",
-      "version": "1.0.2",
-      "build": 3,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.2/ritmo-supabase-ios.ipa",
-      "sha256": "56b6ec694ac62c6069469cfcecceb0b928591fc9960ec35f6baca5b725e8c39f",
-      "bytes": 43710230,
-      "published_at": "2026-10-18T20:50:03.536880+00:00",
-      "notes": "Logo aprobado, carga animada, tutorial de Blobbie y aviso de nuevas versiones."
+      "version": "1.0.3",
+      "build": 4,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.3/ritmo-supabase-ios.ipa",
+      "sha256": "4d305628365a96bd4a94170be1b41ee55c0d92c3ced8764611582a9f08ac7c73",
+      "bytes": 44043371,
+      "published_at": "2026-10-22T16:38:51.836636+00:00",
+      "notes": "Cuentas con correo y más seguridad, evento de Día de Muertos con reto y Floti exclusivo."
     }
   ]
 }
