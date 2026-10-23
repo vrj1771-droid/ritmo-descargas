@@ -1,36 +1,66 @@
 {
-  "schema_version": 1,
-  "published_at": "2026-10-22T16:38:51.836636+00:00",
-  "releases": [
-    {
-      "platform": "android",
-      "version": "1.0.3",
-      "build": 4,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.3/ritmo-supabase.apk",
-      "sha256": "01ad55b96c6358cab8669bd3fb17bbc2bffb31147614146dfff599737d1aa03e",
-      "bytes": 76140886,
-      "published_at": "2026-10-22T16:38:51.836636+00:00",
-      "notes": "Cuentas con correo y más seguridad, evento de Día de Muertos con reto y Floti exclusivo."
-    },
-    {
-      "platform": "windows",
-      "version": "1.0.3",
-      "build": 4,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.3/ritmo-windows.zip",
-      "sha256": "7c6d6482c32115401b1fdbc9579dd261ebcb90f1845f20736aabbcc7ff82aff6",
-      "bytes": 49452870,
-      "published_at": "2026-10-22T16:38:51.836636+00:00",
-      "notes": "Cuentas con correo y más seguridad, evento de Día de Muertos con reto y Floti exclusivo."
-    },
-    {
-      "platform": "ios",
-      "version": "1.0.3",
-      "build": 4,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.3/ritmo-supabase-ios.ipa",
-      "sha256": "4d305628365a96bd4a94170be1b41ee55c0d92c3ced8764611582a9f08ac7c73",
-      "bytes": 44043371,
-      "published_at": "2026-10-22T16:38:51.836636+00:00",
-      "notes": "Cuentas con correo y más seguridad, evento de Día de Muertos con reto y Floti exclusivo."
-    }
-  ]
+    "schema_version":  1,
+    "published_at":  "2026-10-23T15:07:53.0375264+00:00",
+    "releases":  [
+                     {
+                         "platform":  "android",
+                         "version":  "1.0.4",
+                         "build":  6,
+                         "url":  "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.4/ritmo-supabase.apk",
+                         "sha256":  "73410e57b2c0a2ca544b79d731d7da2f0c961a21359e0f13e6e1a1ec0ff6e64f",
+                         "bytes":  76841969,
+                         "published_at":  "2026-10-23T15:07:53.0375264+00:00",
+                         "notes":  "Día de Muertos: la ofrenda se abre a pantalla completa, recibes de regalo la corona de cempasúchil, el escenario de la ofrenda tiene más luces y profundidad, la luna del sueño es una calabaza decorada, el plato lleva pan de muerto y el menú tiene los colores del papel picado. Gimnasio: crea tus rutinas, usa plantillas y organiza tu agenda (semana fija o rotación A/B/C); superseries, circuitos, calentamientos y series descendentes; retoma tu rutina aunque cierres la app; biblioteca con búsqueda, filtros y favoritos, tus lugares de entrenamiento y tus propios ejercicios. iPhone: widgets de agua, calorías, tu día y macros, y \"+ vaso\" sin abrir la app. Nutrición: azúcares añadidos y carbohidratos de etiqueta. Amigos: perfiles, Mi perfil y mensajes sin ser amigos."
+                     },
+                     {
+                         "platform":  "android-armeabi-v7a",
+                         "version":  "1.0.4",
+                         "build":  6,
+                         "url":  "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.4/ritmo-supabase-armeabi-v7a.apk",
+                         "sha256":  "1f873fdce2c41d8f246bbf38b303ae589c3c4b376ef8720702c206b05dc9e557",
+                         "bytes":  73121383,
+                         "published_at":  "2026-10-23T15:07:53.0375264+00:00",
+                         "notes":  "Día de Muertos: la ofrenda se abre a pantalla completa, recibes de regalo la corona de cempasúchil, el escenario de la ofrenda tiene más luces y profundidad, la luna del sueño es una calabaza decorada, el plato lleva pan de muerto y el menú tiene los colores del papel picado. Gimnasio: crea tus rutinas, usa plantillas y organiza tu agenda (semana fija o rotación A/B/C); superseries, circuitos, calentamientos y series descendentes; retoma tu rutina aunque cierres la app; biblioteca con búsqueda, filtros y favoritos, tus lugares de entrenamiento y tus propios ejercicios. iPhone: widgets de agua, calorías, tu día y macros, y \"+ vaso\" sin abrir la app. Nutrición: azúcares añadidos y carbohidratos de etiqueta. Amigos: perfiles, Mi perfil y mensajes sin ser amigos."
+                     },
+                     {
+                         "platform":  "windows",
+                         "version":  "1.0.4",
+                         "build":  6,
+                         "url":  "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.4/ritmo-windows.zip",
+                         "sha256":  "21b0d412661941133c4d950daa3af47ad29174d733085a2c6677baa1a2fafa1b",
+                         "bytes":  50263227,
+                         "published_at":  "2026-10-23T15:07:53.0375264+00:00",
+                         "notes":  "Día de Muertos: la ofrenda se abre a pantalla completa, recibes de regalo la corona de cempasúchil, el escenario de la ofrenda tiene más luces y profundidad, la luna del sueño es una calabaza decorada, el plato lleva pan de muerto y el menú tiene los colores del papel picado. Gimnasio: crea tus rutinas, usa plantillas y organiza tu agenda (semana fija o rotación A/B/C); superseries, circuitos, calentamientos y series descendentes; retoma tu rutina aunque cierres la app; biblioteca con búsqueda, filtros y favoritos, tus lugares de entrenamiento y tus propios ejercicios. iPhone: widgets de agua, calorías, tu día y macros, y \"+ vaso\" sin abrir la app. Nutrición: azúcares añadidos y carbohidratos de etiqueta. Amigos: perfiles, Mi perfil y mensajes sin ser amigos."
+                     },
+                     {
+                         "platform":  "ios",
+                         "version":  "1.0.4",
+                         "build":  6,
+                         "url":  "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.4/ritmo-supabase-ios.ipa",
+                         "sha256":  "5ea0988fbd0d67b4d5a46e836eff6f9fe3ccb627931b7a920f70711fbd13b68b",
+                         "bytes":  44875679,
+                         "published_at":  "2026-10-23T15:07:53.0375264+00:00",
+                         "notes":  "Día de Muertos: la ofrenda se abre a pantalla completa, recibes de regalo la corona de cempasúchil, el escenario de la ofrenda tiene más luces y profundidad, la luna del sueño es una calabaza decorada, el plato lleva pan de muerto y el menú tiene los colores del papel picado. Gimnasio: crea tus rutinas, usa plantillas y organiza tu agenda (semana fija o rotación A/B/C); superseries, circuitos, calentamientos y series descendentes; retoma tu rutina aunque cierres la app; biblioteca con búsqueda, filtros y favoritos, tus lugares de entrenamiento y tus propios ejercicios. iPhone: widgets de agua, calorías, tu día y macros, y \"+ vaso\" sin abrir la app. Nutrición: azúcares añadidos y carbohidratos de etiqueta. Amigos: perfiles, Mi perfil y mensajes sin ser amigos."
+                     },
+                     {
+                         "platform":  "ios-sin-widgets",
+                         "version":  "1.0.4",
+                         "build":  6,
+                         "url":  "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.4/ritmo-ios-sin-widgets.ipa",
+                         "sha256":  "6d961c3c1f242d57f46092951c45fc467022af927be116010b23f1a3da464979",
+                         "bytes":  44401049,
+                         "published_at":  "2026-10-23T15:07:53.0375264+00:00",
+                         "notes":  "Día de Muertos: la ofrenda se abre a pantalla completa, recibes de regalo la corona de cempasúchil, el escenario de la ofrenda tiene más luces y profundidad, la luna del sueño es una calabaza decorada, el plato lleva pan de muerto y el menú tiene los colores del papel picado. Gimnasio: crea tus rutinas, usa plantillas y organiza tu agenda (semana fija o rotación A/B/C); superseries, circuitos, calentamientos y series descendentes; retoma tu rutina aunque cierres la app; biblioteca con búsqueda, filtros y favoritos, tus lugares de entrenamiento y tus propios ejercicios. iPhone: widgets de agua, calorías, tu día y macros, y \"+ vaso\" sin abrir la app. Nutrición: azúcares añadidos y carbohidratos de etiqueta. Amigos: perfiles, Mi perfil y mensajes sin ser amigos."
+                     },
+                     {
+                         "platform":  "web",
+                         "version":  "1.0.4",
+                         "build":  6,
+                         "url":  "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.4/ritmo-web.zip",
+                         "sha256":  "84e48ecea735ff2eae74ea040f2fd37c0bb35a2b7d81512eb27f32b02c45fab5",
+                         "bytes":  46494512,
+                         "published_at":  "2026-10-23T15:07:53.0375264+00:00",
+                         "notes":  "Día de Muertos: la ofrenda se abre a pantalla completa, recibes de regalo la corona de cempasúchil, el escenario de la ofrenda tiene más luces y profundidad, la luna del sueño es una calabaza decorada, el plato lleva pan de muerto y el menú tiene los colores del papel picado. Gimnasio: crea tus rutinas, usa plantillas y organiza tu agenda (semana fija o rotación A/B/C); superseries, circuitos, calentamientos y series descendentes; retoma tu rutina aunque cierres la app; biblioteca con búsqueda, filtros y favoritos, tus lugares de entrenamiento y tus propios ejercicios. iPhone: widgets de agua, calorías, tu día y macros, y \"+ vaso\" sin abrir la app. Nutrición: azúcares añadidos y carbohidratos de etiqueta. Amigos: perfiles, Mi perfil y mensajes sin ser amigos."
+                     }
+                 ]
 }
