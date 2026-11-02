@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
-  "published_at": "2026-11-01T23:31:46.041076+00:00",
+  "published_at": "2026-11-02T04:15:03.941745+00:00",
   "releases": [
     {
       "platform": "android",
       "version": "1.0.5",
-      "build": 7,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-widgets/ritmo-supabase.apk",
-      "sha256": "709d002adefc8c87ae3da7b51eadec2ebf7506c633759919d68e843ff5820aef",
+      "build": 8,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-android8/ritmo-supabase.apk",
+      "sha256": "42a37f05863e6fe3f81333bed3cc5b36de29f3260d2f6161199828369c4fa9c9",
       "bytes": 80823182,
-      "published_at": "2026-11-01T22:58:31.536575+00:00",
-      "notes": "Banners promocionales: objetos girando como en el permanente, destello según la rareza y resplandor naranja con morado al obtener el personaje promocional."
+      "published_at": "2026-11-02T04:15:03.941745+00:00",
+      "notes": "Actualiza Ritmo 1.0.5: anuncio del evento en Mi día, nuevas funciones y animaciones en los banners actuales. Los objetos giran y destellan según su rareza; el personaje promocional brilla naranja y morado."
     },
     {
       "platform": "android-armeabi-v7a",
       "version": "1.0.5",
-      "build": 7,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-widgets/ritmo-supabase-armeabi-v7a.apk",
-      "sha256": "3de3d3576bb663f8b3d3c3bea980d77e17886f60af57f0828400f0d8b4547bf8",
+      "build": 8,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-android8/ritmo-supabase-armeabi-v7a.apk",
+      "sha256": "e7eaffdf90449c35a09fc94388812d7c065ab712d4b2332f896872b9a40e5e45",
       "bytes": 77348356,
-      "published_at": "2026-11-01T22:58:31.536575+00:00",
-      "notes": "Banners promocionales: objetos girando como en el permanente, destello según la rareza y resplandor naranja con morado al obtener el personaje promocional."
+      "published_at": "2026-11-02T04:15:03.941745+00:00",
+      "notes": "Actualiza Ritmo 1.0.5: anuncio del evento en Mi día, nuevas funciones y animaciones en los banners actuales. Los objetos giran y destellan según su rareza; el personaje promocional brilla naranja y morado."
     },
     {
       "platform": "windows",
       "version": "1.0.5",
       "build": 7,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-widgets/ritmo-windows.zip",
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-android8/ritmo-windows.zip",
       "sha256": "6c9cb530a0fb8c196e0749b8182b05c416f676f75d3f441eddf16cc08f15ddbd",
       "bytes": 52598476,
       "published_at": "2026-11-01T22:58:31.536575+00:00",
@@ -36,7 +36,7 @@
       "platform": "web",
       "version": "1.0.5",
       "build": 7,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-widgets/ritmo-web.zip",
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-android8/ritmo-web.zip",
       "sha256": "860d91dde933b3e3624633d3791f3344045addc83911c4c965901c8ac715bba9",
       "bytes": 48392613,
       "published_at": "2026-11-01T22:58:31.536575+00:00",
@@ -46,7 +46,7 @@
       "platform": "ios",
       "version": "1.0.5",
       "build": 7,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-widgets/ritmo-supabase-ios.ipa",
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-android8/ritmo-supabase-ios.ipa",
       "sha256": "b5634482531d3c9e1bd01f7e8836bf63b0375a8272fc21268d435ff03ea0d6fc",
       "bytes": 47732865,
       "published_at": "2026-11-01T23:31:46.041076+00:00",
@@ -56,7 +56,7 @@
       "platform": "ios-sin-widgets",
       "version": "1.0.5",
       "build": 7,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-widgets/ritmo-ios-sin-widgets.ipa",
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.5-android8/ritmo-ios-sin-widgets.ipa",
       "sha256": "0b736170c893a03c3be3fdf8d04d601f467f7721f4bd255e325bd9923826bd63",
       "bytes": 47257368,
       "published_at": "2026-11-01T23:31:46.041076+00:00",
@@ -64,4 +64,3 @@
     }
   ]
 }
-
