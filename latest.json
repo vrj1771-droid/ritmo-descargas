@@ -1,66 +1,66 @@
 {
   "schema_version": 1,
-  "published_at": "2026-11-03T07:43:02.565874+00:00",
+  "published_at": "2026-11-03T17:01:08.644447+00:00",
   "releases": [
     {
       "platform": "android",
       "version": "1.0.6",
-      "build": 9,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6/ritmo-supabase.apk",
-      "sha256": "a6d5afa0b17e0b538009ad5a9e5cbefed8113ae35703246aa3762af930ee72f7",
-      "bytes": 81189964,
-      "published_at": "2026-11-03T07:43:02.565874+00:00",
-      "notes": "Tu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes tres deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua."
+      "build": 10,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6-build10/ritmo-supabase.apk",
+      "sha256": "708c8e1ff384c010958a6ab77a37396bfea3bac07dbfa267a07d8f90f0d89d71",
+      "bytes": 81321036,
+      "published_at": "2026-11-03T17:01:08.644447+00:00",
+      "notes": "# Ritmo 1.0.6 · Novedades\n\nTu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes diez deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua.\n\n\nEl premio del día 15 aumenta a 10 deseos de evento, además de la máscara y el fondo.\nLos eventos podrán recibir nuevos calendarios, fechas y premios al conectarte, sin instalar otra actualización."
     },
     {
       "platform": "android-armeabi-v7a",
       "version": "1.0.6",
-      "build": 9,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6/ritmo-supabase-armeabi-v7a.apk",
-      "sha256": "652c5b2374d489ba9a8273f69cc08747f546a5ca4ebc1b445ec16da3b47f26bf",
-      "bytes": 77780676,
-      "published_at": "2026-11-03T07:43:02.565874+00:00",
-      "notes": "Tu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes tres deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua."
+      "build": 10,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6-build10/ritmo-supabase-armeabi-v7a.apk",
+      "sha256": "aa97cc2085d8cd86c3537acbe20bc598d7ffa6b7e0ddce56045047bd5f0d3ccc",
+      "bytes": 77813444,
+      "published_at": "2026-11-03T17:01:08.644447+00:00",
+      "notes": "# Ritmo 1.0.6 · Novedades\n\nTu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes diez deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua.\n\n\nEl premio del día 15 aumenta a 10 deseos de evento, además de la máscara y el fondo.\nLos eventos podrán recibir nuevos calendarios, fechas y premios al conectarte, sin instalar otra actualización."
     },
     {
       "platform": "windows",
       "version": "1.0.6",
-      "build": 9,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6/ritmo-windows.zip",
-      "sha256": "f942909fcaf209647631f537cc406671f7cb15dd8ddf833f2a89b9da10c4c2f4",
-      "bytes": 52979459,
-      "published_at": "2026-11-03T07:43:02.565874+00:00",
-      "notes": "Tu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes tres deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua."
+      "build": 10,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6-build10/ritmo-windows.zip",
+      "sha256": "6e7ff8a5a1137aca2a0e489ebb5bde42ce3707828c774b986b300917099395c2",
+      "bytes": 53163317,
+      "published_at": "2026-11-03T17:01:08.644447+00:00",
+      "notes": "# Ritmo 1.0.6 · Novedades\n\nTu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes diez deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua.\n\n\nEl premio del día 15 aumenta a 10 deseos de evento, además de la máscara y el fondo.\nLos eventos podrán recibir nuevos calendarios, fechas y premios al conectarte, sin instalar otra actualización."
     },
     {
       "platform": "web",
       "version": "1.0.6",
-      "build": 9,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6/ritmo-web.zip",
-      "sha256": "b426e998cf522a265ea4199d89ef5958ee949ab9621ac23d6803729893bf2f44",
-      "bytes": 48323633,
-      "published_at": "2026-11-03T07:43:02.565874+00:00",
-      "notes": "Tu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes tres deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua."
+      "build": 10,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6-build10/ritmo-web.zip",
+      "sha256": "6bd247f73d80ee79fe81861bb3eb57b49bd64e72c5a9a3709f6e4139facf295a",
+      "bytes": 48438767,
+      "published_at": "2026-11-03T17:01:08.644447+00:00",
+      "notes": "# Ritmo 1.0.6 · Novedades\n\nTu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes diez deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua.\n\n\nEl premio del día 15 aumenta a 10 deseos de evento, además de la máscara y el fondo.\nLos eventos podrán recibir nuevos calendarios, fechas y premios al conectarte, sin instalar otra actualización."
     },
     {
       "platform": "ios",
       "version": "1.0.6",
-      "build": 9,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6/ritmo-supabase-ios.ipa",
-      "sha256": "7387786511521653c9dcdd5dd8fbc1f1cce38e15300defc64960e6e5cb911d2e",
-      "bytes": 48313502,
-      "published_at": "2026-11-03T07:43:02.565874+00:00",
-      "notes": "Tu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes tres deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua."
+      "build": 10,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6-build10/ritmo-supabase-ios.ipa",
+      "sha256": "fa132805beb22056d4ddfa9d885c7a5e620847e8c0413375c50445888d52b2ca",
+      "bytes": 48339067,
+      "published_at": "2026-11-03T17:01:08.644447+00:00",
+      "notes": "# Ritmo 1.0.6 · Novedades\n\nTu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes diez deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua.\n\n\nEl premio del día 15 aumenta a 10 deseos de evento, además de la máscara y el fondo.\nLos eventos podrán recibir nuevos calendarios, fechas y premios al conectarte, sin instalar otra actualización."
     },
     {
       "platform": "ios-sin-widgets",
       "version": "1.0.6",
-      "build": 9,
-      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6/ritmo-ios-sin-widgets.ipa",
-      "sha256": "7081948ffa175d1a959f8c5a8d00457e289be7ac6ab91d273fb1c0721c6b4437",
-      "bytes": 47841943,
-      "published_at": "2026-11-03T07:43:02.565874+00:00",
-      "notes": "Tu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes tres deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua."
+      "build": 10,
+      "url": "https://github.com/vrj1771-droid/ritmo-descargas/releases/download/v1.0.6-build10/ritmo-ios-sin-widgets.ipa",
+      "sha256": "071172b3cf2ea6f685522a6109f5cd7e0b71362f6cae2d910e46cff2e92aada2",
+      "bytes": 47868694,
+      "published_at": "2026-11-03T17:01:08.644447+00:00",
+      "notes": "# Ritmo 1.0.6 · Novedades\n\nTu casa de Ritmis cobra vida. Ahora puedes verlos jugar juntos, elegir quién te\nacompaña y guardar un fondo distinto para cada uno. Los fondos que ganas se\nquedan contigo.\n\nEl Calendario de Muertos continúa: del día 8 al 15, cumple tu día junto con un\namigo y vuelve por tu premio. Al llegar a tu propio día 15 recibes diez deseos de\nevento, la Máscara de catrina y el fondo Noche de Muertos para siempre.\n\nEn iPhone, Ritmo Salud también puede traer sueño y entrenamientos mediante\nAtajos. Tú eliges qué guardar y tus registros manuales se conservan.\n\nEn el gimnasio puedes empezar una sesión libre y añadir ejercicios mientras\nentrenas, elegirlos en carruseles por músculo y poner una foto propia a tus\nejercicios. Cardio guarda duración y distancia y calcula la velocidad media.\n\nLa navegación deja más espacio en las pantallas internas. Los personajes de\nMuertos tienen expresiones y movimientos renovados, y los widgets de Android\nmejoran sus tamaños, datos y botones de agua.\n\n\nEl premio del día 15 aumenta a 10 deseos de evento, además de la máscara y el fondo.\nLos eventos podrán recibir nuevos calendarios, fechas y premios al conectarte, sin instalar otra actualización."
     }
   ]
 }
